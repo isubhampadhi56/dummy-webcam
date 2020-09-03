@@ -15,4 +15,3 @@ rm list.txt
 sudo modprobe -r v4l2loopback
 echo "Exiting ...."
 clear
-
